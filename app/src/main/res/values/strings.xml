@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA</string>
+    <string name="subject">Subject</string>
+    <string name="no">No</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="Clear">Button</string>
+    <string name="credit">Credit</string>
+    <string name="point">Point</string>
+    <string name="_1">1</string>
+    <string name="_1">1</string>
+    <string name="_1">1</string>
+    <string name="_1">1</string>
+    <string name="_1">1</string>
+    <string name="total_credit">Total Credit</string>
+    <string name="gpa">GPA</string>
+    <string name="ok">OK</string>
+</resources>
